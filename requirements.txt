@@ -1,0 +1,15 @@
+et_xmlfile==2.0.0
+h5py==3.16.0
+isx==2.1.0
+numpy==2.4.4
+openpyxl==3.1.5
+pandas==3.0.2
+pillow==12.2.0
+pyee==13.0.1
+python-dateutil==2.9.0.post0
+python-ffmpeg==2.0.12
+scipy==1.17.1
+six==1.17.0
+tifffile==2026.5.2
+typing_extensions==4.15.0
+tzdata==2026.2
